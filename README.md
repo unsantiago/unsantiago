@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Santiago</h1>
 <h3 align="center">A passionate backend developer from Colombia</h3>
 
-- 🔭 I’m currently working on [Incident manager for ADN Vital](https://github.com/unsantiago/ADNVital)
+- 🔭 I’m currently working on [Web application for property rental](https://github.com/unsantiago/proy-ing-soft-2)
 
-- 🌱 I’m currently learning **cybersecurity, artificial intelligence, design patterns, Springboot and node**
+- 🌱 I’m currently learning **cybersecurity, artificial intelligence, design patterns, Springboot and Angular**
 
 - 👯 I’m looking to collaborate on **projects that enhance my skills in software development and best practices**
 
