@@ -3,11 +3,11 @@
 
 - 🔭 I’m currently working on [Web application for property rental](https://github.com/unsantiago/proy-ing-soft-2)
 
-- 🌱 I’m currently learning **cybersecurity, artificial intelligence, design patterns, Springboot and Angular**
+- 🌱 I’m currently learning **artificial intelligence, [English for IT 1 - Cisco](https://skillsforall.com/course/english-for-it1?courseLang=en-US), Springboot and Angular**
 
 - 👯 I’m looking to collaborate on **projects that enhance my skills in software development and best practices**
 
-- 💬 Ask me about **Java, Python oriented to data analysis...**
+- 💬 Ask me about **Java and Python oriented to data analysis...**
 
 - 📫 How to reach me **lprietoa2@gmail.com**
 
